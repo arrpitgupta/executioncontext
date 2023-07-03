@@ -1,4 +1,4 @@
-# executioncotext
+# executioncontext
 An execution context is a concept in programming that defines the environment in which a piece of code is executed. It contains all the necessary information for the code to be executed correctly, such as variables, functions, scope, and other contextual data. The execution context plays a crucial role in managing the flow of code execution and maintaining the state of the program.
 
 To understand the execution context better, let's break it down into its components and explain each one in detail:
